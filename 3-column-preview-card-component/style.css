@@ -12,14 +12,14 @@
 }
 .three{
     font-size: 15px;
-    margin:120px 200px 80px ;
+    margin:150px 225px 100px ;
     display: flex;
     flex-direction: row;
 }
 h1{
     font-family: 'Big Shoulders Display', cursive;
     text-transform: uppercase;
-    font-size: 30px;
+    font-size: 35px;
     color: var(--font_color_h);
 }
 p,button{
@@ -43,6 +43,7 @@ h1,img,p{
 }
 p{
     margin-bottom:25%;
+    line-height:2em;
 }
 img{
     padding-top: 0px;
