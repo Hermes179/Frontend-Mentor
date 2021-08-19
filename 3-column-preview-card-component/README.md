@@ -23,13 +23,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![image](https://user-images.githubusercontent.com/61943677/130060253-3a8702ce-1b9d-4967-ac58-696d9fed88dd.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Demo](https://hermes179.github.io/Frontend-Mentor/3-column-preview-card-component/)
 
 ## My process
 
